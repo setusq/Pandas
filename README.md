@@ -19,7 +19,8 @@
 
 В этом разделе будут размещены различные задания для практики pandas:
 
-1. **[Задание 1: Основы pandas](exercises/exercise_1_basics.ipynb)**
+1. **[Задания с сайта w3resource]([exercises/exercise_1_basics.ipynb](https://www.w3resource.com/python-exercises/pandas))**
+  1.1. [Python Pandas Data Series](w3resource/Python Pandas Data Series.ipynb)
 
 ## Проекты
 
