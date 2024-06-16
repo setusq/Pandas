@@ -1,7 +1,6 @@
-![image](https://github.com/setusq/Pandas/assets/125801694/84e2d60c-2f49-43a3-a0ef-700d1e84a92f)![image](https://github.com/setusq/Pandas/assets/125801694/87d2c1dd-9df2-48b1-954d-1d694d5246cc)![image](https://github.com/setusq/Pandas/assets/125801694/e87d81f6-e484-4e43-824f-c22b680ea254)# Pandas
 
 # Pandas Learning Projects
-
+![image](https://github.com/setusq/Pandas/assets/125801694/84e2d60c-2f49-43a3-a0ef-700d1e84a92f)
 ## Описание
 
 Этот репозиторий содержит:
