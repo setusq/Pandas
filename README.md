@@ -2,7 +2,8 @@
 
 # Pandas Learning Projects
 
-![Pandas Logo](https://pandas.pydata.org/static/img/pandas_white.svg)
+![Uploading image.png…]()
+
 
 ## Описание
 
