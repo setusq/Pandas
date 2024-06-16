@@ -20,7 +20,7 @@
 В этом разделе будут размещены различные задания для практики pandas:
 
 1. **[Задания с сайта w3resource](https://www.w3resource.com/python-exercises/pandas/index.php)**
-   - **[Python Pandas Data Series](./Python%20Pandas%20Data%20Series.ipynb)**
+   - **[Python Pandas Data Series](./w3resource/Python%20Pandas%20Data%20Series.ipynb)**
 
 ## Проекты
 
